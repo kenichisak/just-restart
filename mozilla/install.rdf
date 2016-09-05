@@ -33,7 +33,7 @@
 	<em:localized>
 	  <Description>
 		<em:locale>es</em:locale>
-		<em:description>Reinicia la aplicación con Ctrl+Máyuz+Z.</em:description>
+		<em:description>Reinicia la aplicación con Ctrl+Máyus+Z.</em:description>
 		<em:translator>strel</em:translator>
 	  </Description>
 	</em:localized>
