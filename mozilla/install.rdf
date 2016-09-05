@@ -29,6 +29,14 @@
     <em:description>Restart application with Ctrl+Shift+Z.</em:description>
     <em:creator>SAKURAI Kenichi</em:creator>
     <em:homepageURL>http://everyday.sunday-programming.com/</em:homepageURL>
+	
+	<em:localized>
+	  <Description>
+		<em:locale>es</em:locale>
+		<em:description>Reinicia la aplicación con Ctrl+Máyuz+Z.</em:description>
+		<em:translator>strel</em:translator>
+	  </Description>
+	</em:localized>
 
   </Description>
 </RDF>
