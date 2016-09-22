@@ -7,8 +7,10 @@
 <!DOCTYPE overlay SYSTEM "chrome://just-restart/locale/just-restart.dtd">
 
 <overlay xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script type="application/x-javascript" src="just-restart.js" />
+
   <commandset>
-    <command id="cmd_just_restart" oncommand="Application.restart();" />
+    <command id="cmd_just_restart" oncommand="jrExec();" />
   </commandset>
 
   <keyset>
