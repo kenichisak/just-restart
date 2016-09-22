@@ -28,7 +28,7 @@
     <em:name>Just Restart!</em:name>
     <em:description>Restart application with Ctrl+Shift+Z.</em:description>
     <em:creator>SAKURAI Kenichi</em:creator>
-    <em:homepageURL>http://everyday.sunday-programming.com/</em:homepageURL>
+    <em:homepageURL>https://github.com/kenichisak/just-restart</em:homepageURL>
     <em:multiprocessCompatible>true</em:multiprocessCompatible>
 
     <em:localized>
